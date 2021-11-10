@@ -17,6 +17,9 @@ public class DemoJo {
     public static void main(String[] args) {
         // TODO code application logic here
         int i = 4;
+        
+        int h = 12;
+        String chine = "dede";
     }
     
 }
